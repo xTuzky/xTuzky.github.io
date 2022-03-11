@@ -7,7 +7,7 @@ image.onclick = function()
 
 	/* Set the new source */
 	if(mySrc === 'images/chaos.jpg') {
-		image.setAttribute('src', 'images/blackchaos.png');
+		image.setAttribute('src', 'images/leif_business.png');
 	} else {
 		image.setAttribute('src', 'images/chaos.jpg');
 	}
