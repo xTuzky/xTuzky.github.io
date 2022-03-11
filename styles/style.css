@@ -38,3 +38,11 @@ img {
   margin: 0 auto;
 }
 
+button {
+  height: 50px;
+  width: 75px;
+  background-color: #83613D;
+  color: #B6A16C;
+  border: 3px solid black;
+  margin-left:42.5em;
+}
